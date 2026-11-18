@@ -8,7 +8,7 @@ FeedGuard is a Data Analytics project focused on exploring Egypt's animal feed i
 
 ## 📊 Interactive Power BI Dashboard
 ## 📸 Dashboard Preview
-
+<img src="HOME.png" width="800">
 ### 🏠 Home
 ![Home](HOME.png)
 
