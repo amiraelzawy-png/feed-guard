@@ -7,7 +7,25 @@ FeedGuard is a Data Analytics project focused on exploring Egypt's animal feed i
 ---
 
 ## 📊 Interactive Power BI Dashboard
+## 📸 Dashboard Preview
 
+### 🏠 Home
+![Home](HOME.png)
+
+### 📊 Overview
+![Overview](OVER%20VIEW.png)
+
+### ⚠️ Sourcing Risk
+![Sourcing Risk](SOURCING%20RISK.png)
+
+### 📦 Volume and Value
+![Volume and Value](VOLUM%20AND%20VALUE.png)
+
+### 💱 Currency Dynamics
+![Currency Dynamics](CURRENCY%20DYMANCE.png)
+
+### 📉 Crisis and Financial Impact
+![Crisis and Financial Impact](CRISIS%20AND%20FINANCIAL%20IMPACT.png)
 Explore the interactive dashboard and discover key insights through data visualization.
 
 [🚀 **OPEN LIVE POWER BI DASHBOARD**](https://app.powerbi.com/cgroups/2cc36221-96bf-4107-9a3a-2a6810e4861c/reports/f41162e5-c263-4437-9b8a-0b99b7e0bae6/d2c4e11e6d75bd111899?experience=power-bi)
