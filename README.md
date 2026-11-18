@@ -13,18 +13,23 @@ FeedGuard is a Data Analytics project focused on exploring Egypt's animal feed i
 ![Home](HOME.png)
 
 ### 📊 Overview
+<img src="HOME.png" width="800">
 ![Overview](OVER%20VIEW.png)
 
 ### ⚠️ Sourcing Risk
+<img src="HOME.png" width="800">
 ![Sourcing Risk](SOURCING%20RISK.png)
 
 ### 📦 Volume and Value
+<img src="HOME.png" width="800">
 ![Volume and Value](VOLUM%20AND%20VALUE.png)
 
 ### 💱 Currency Dynamics
+<img src="HOME.png" width="800">
 ![Currency Dynamics](CURRENCY%20DYMANCE.png)
 
 ### 📉 Crisis and Financial Impact
+<img src="HOME.png" width="800">
 ![Crisis and Financial Impact](CRISIS%20AND%20FINANCIAL%20IMPACT.png)
 Explore the interactive dashboard and discover key insights through data visualization.
 
